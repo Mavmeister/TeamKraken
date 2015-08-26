@@ -1,9 +1,9 @@
-# TeamKraken
+# InstaTrip
 TeamKraken's Project Repo
 
 ## Overview ##
 
-InstaView enables users to input a starting and end point then receive the fastest route based on their method and all instagram posts made within the last hour along that route. 
+InstaTrip enables users to input a starting and end point then receive the fastest route based on their method and all instagram posts made within the last hour along that route. 
 
 It is a great way to provide users with a visualization of their route and interesting things happening on that route just before they head out.
 
