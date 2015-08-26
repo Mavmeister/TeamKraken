@@ -1,5 +1,4 @@
 # InstaTrip
-TeamKraken's Project Repo
 
 ## Overview ##
 
